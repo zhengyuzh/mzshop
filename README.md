@@ -8,8 +8,8 @@
 数据库地址：<a href ="https://mbd.pub/o/bread/YZWTkp1yaA==" >传送门</a> 
 # 安装使用
 - 1、下载代码到本地，可以拉取项目代码（前提是系统安装了Git工具）；如果没有安装相关工具，可以直接下载代码压缩包
- 
-![image](https://github.com/user-attachments/assets/6d8ebb84-5f5c-40fb-8aa0-84dbc536f93f)
+ ![image](https://github.com/user-attachments/assets/5ba59c7e-ad11-4002-99b7-1655dd9dc97a)
+
 - 2、IDEA工具导入项目代码
   建议使用Maven，IDEA中集成Maven。项目依赖的jar包比较多、使用Maven 来存储 方便一点。切记要修改Maven 配置文件中的jar包下载地址 镜像。使用阿里云 镜像就可以。
   如果没有Maven，也没关系。下载依赖的速度会比较慢，确保pom文件没有爆红。爆红说明相关依赖没有下载成功。
